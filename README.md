@@ -1,6 +1,6 @@
 # 2dgame
 Tämä 2d-tasohyppelypeli on toteutettu Unityllä.
-http://byssoid-supervision.000webhostapp.com/2dgame/download/
+https://www.mediafire.com/file/9z447wpmb5yytal/2d_game_newest_version.zip/file
 
 
 Peli on 2D-tasohyppelypeli, jossa pelaajan täytyy löytää tie loppuun ja matkan varrella ilmenee monstereita, esteitä jne...
